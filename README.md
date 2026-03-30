@@ -18,4 +18,4 @@ This repository contains my practice and implementation of C++ STL concepts.
 - Stack-based problem solving
 
 ## Author
-Rashmi Ranjan Dalai
+rranjan22
